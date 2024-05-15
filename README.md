@@ -14,25 +14,3 @@ JavaScript (ES6+): The primary programming language for the application logic.
 HTML/CSS: Used for structuring and styling the user interface.
 React Router: For managing navigation within the application.
 Local Storage: Used for persisting task data locally on the user's device.
-
-Folder Structure:-
-task-manager-react-app/
-  ├── public/
-  ├── src/
-  │   ├── assets/
-  │   │   └── /* images */
-  │   ├── components/
-  │   │   ├── Tag.jsx
-  │   │   ├── TaskCard.css
-  │   │   ├── TaskCard.jsx
-  │   │   ├── TaskColumn.css
-  │   │   ├── TaskColumn.jsx
-  │   │   ├── TaskForm.css
-  │   │   └── TaskForm.jsx
-  │   ├── index.css
-  │   ├── main.jsx
-  │   └── ...
-  ├── vite.config.js
-  ├── .gitignore
-  ├── package.json
-  └── README.md
